@@ -23,9 +23,9 @@
       <file leaf-file-name="nockmarket.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/nockmarket.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="3" selection-start="3462" selection-end="3462" vertical-scroll-proportion="0.0">
+            <state line="79" column="26" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1360207910000" expanded="true" signature="2224:2290" placeholder="..." />
+                <marker date="1360209481000" expanded="true" signature="2224:2290" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
@@ -49,10 +49,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="trade-table.ejs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/templates/trade-table.ejs">
+      <file leaf-file-name="Procfile" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="1749" selection-end="1749" vertical-scroll-proportion="-7.5">
+            <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="6" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="48" selection-start="256" selection-end="274" vertical-scroll-proportion="0.13372956">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chat.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/chat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="26" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -61,7 +88,7 @@
       <file leaf-file-name="nocklib.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/nocklib.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="222" column="0" selection-start="7581" selection-end="7581" vertical-scroll-proportion="0.0">
+            <state line="31" column="0" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,35 +112,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/portfolio.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="28" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="db.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/db.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="6" selection-start="1250" selection-end="1250" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="trades.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/trades.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="14" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.0">
-              <folding>
-                <marker date="1360206813000" expanded="true" signature="35:65" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -124,22 +122,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/views/index.ejs" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/lib/db.js" />
         <option value="$PROJECT_DIR$/public/js/account.js" />
-        <option value="$PROJECT_DIR$/public/js/chat.js" />
         <option value="$PROJECT_DIR$/public/js/trade.js" />
         <option value="$PROJECT_DIR$/public/js/portfolio.js" />
-        <option value="$PROJECT_DIR$/lib/nocklib.js" />
         <option value="$PROJECT_DIR$/public/templates/trade-table.ejs" />
         <option value="$PROJECT_DIR$/public/js/trades.js" />
         <option value="$PROJECT_DIR$/public/stylesheets/nockmarkets.css" />
         <option value="$PROJECT_DIR$/views/portfolio.ejs" />
         <option value="$PROJECT_DIR$/routes/nockroutes.js" />
-        <option value="$PROJECT_DIR$/nockmarket.js" />
         <option value="$PROJECT_DIR$/views/404.ejs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/nockmarket.js" />
+        <option value="$PROJECT_DIR$/public/js/chat.js" />
+        <option value="$PROJECT_DIR$/lib/nocklib.js" />
+        <option value="$PROJECT_DIR$/lib/db.js" />
       </list>
     </option>
   </component>
@@ -218,6 +216,52 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chapter2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -357,23 +401,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/cookie/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="1503" selection-end="1503" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/ECMAScript.js2">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="23" selection-start="402" selection-end="402" vertical-scroll-proportion="0.31578946">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="1" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -385,30 +415,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/chat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="30" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/db.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="6" selection-start="1250" selection-end="1250" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/portfolio.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="28" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/nocklib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="222" column="0" selection-start="7581" selection-end="7581" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -450,15 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nockmarket.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="3" selection-start="3462" selection-end="3462" vertical-scroll-proportion="0.0">
-          <folding>
-            <marker date="1360207910000" expanded="true" signature="2224:2290" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/404.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="545" selection-end="545" vertical-scroll-proportion="-10.625">
@@ -469,6 +469,50 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="12" selection-start="12" selection-end="12" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="23" selection-start="23" selection-end="23" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="6" selection-start="169" selection-end="169" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nockmarket.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="26" selection-start="2646" selection-end="2646" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1360209481000" expanded="true" signature="2224:2290" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/chat.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="26" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/nocklib.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="0" selection-start="1014" selection-end="1014" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="48" selection-start="256" selection-end="274" vertical-scroll-proportion="0.13372956">
           <folding />
         </state>
       </provider>
