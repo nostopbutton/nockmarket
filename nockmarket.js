@@ -52,8 +52,10 @@ app.configure(function () {
     app.use(express.bodyParser());
     app.use(express.cookieParser());
     app.use(express.session({secret: 'secretpasswordforsessions', store: nocklib.getSessionStore()}));
+    // we first define the template directory and then EJS (Embedded JavaScript) as the templating engine.
     app.set('views', __dirname + '/views');
-    app.set('views engine', 'ejs');
+    app.set('view engine', 'ejs');
+    // xpress.static is used to indicate the directory where we’ll store static files such as stylesheets and images
     app.use(express.static(__dirname + '/public'));
 });
 app.configure('development', function () {
@@ -63,7 +65,9 @@ app.configure('development', function () {
 app.configure('production', function () {
     app.use(express.errorHandler());
 });
-app.set('views options', {
+
+// By specifying layout: false, we indicate that no default layout is being used as a template
+app.set('view options', {
     layout: false
 });
 //app.get('/', function(req, res) {
